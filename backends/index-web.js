@@ -6,7 +6,7 @@ const app = express();
 
 // app.use(express.json());
 
-const PORT = 3006;
+const PORT = parseInt(process.env.portWeb, 10) || 3006;
 
 async function startServer() {
   try {
