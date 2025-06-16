@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "181319302204",
+    "project_id": "hei-survei-v1",
+    "storage_bucket": "hei-survei-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181319302204:android:a08304d8356d1d07811739",
+        "android_client_info": {
+          "package_name": "com.example.survei_aplikasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181319302204-kvfhnlqhukcv6nj4v6lgnaaejkoja0dn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDipcg30Lt0G-RtfxCSuV0Icr_bSwAEgX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181319302204-cnkkmjh00tarjn96k8v97cc0vnpa5b68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

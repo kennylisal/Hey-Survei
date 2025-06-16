@@ -1,0 +1,88 @@
+#user-app
+/user-app/.dart_tool/
+/user-app/.flutter-plugins
+/user-app/.flutter-plugins-dependencies
+/user-app/.packages
+/user-app/.pub-cache/
+/user-app/.pub/
+/user-app/build/
+
+# Symbolication related
+/user-app/app.*.symbols
+
+# Obfuscation related
+/user-app/app.*.map.json
+
+# Android Studio will place build artifacts here
+/user-app/android/app/debug
+/user-app/android/app/profile
+/user-app/android/app/release
+
+#firebase-related
+/user-app/.firebaserc
+/user-app/.firebaserc
+/user-app/lib/firebase_options.dart
+
+#surveyor-web
+/surveyor-web/.dart_tool/
+/surveyor-web/.flutter-plugins
+/surveyor-web/.flutter-plugins-dependencies
+/surveyor-web/.packages
+/surveyor-web/.pub-cache/
+/surveyor-web/.pub/
+/surveyor-web/build/
+
+# Symbolication related
+/surveyor-web/app.*.symbols
+
+# Obfuscation related
+/surveyor-web/app.*.map.json
+
+# Android Studio will place build artifacts here
+/surveyor-web/android/app/debug
+/surveyor-web/android/app/profile
+/surveyor-web/android/app/release
+
+#firebase-related
+/surveyor-web/.firebaserc
+/surveyor-web/.firebaserc
+/surveyor-web/lib/firebase_options.dart
+
+#admin-web
+/admin-web/.dart_tool/
+/admin-web/.flutter-plugins
+/admin-web/.flutter-plugins-dependencies
+/admin-web/.packages
+/admin-web/.pub-cache/
+/admin-web/.pub/
+/admin-web/build/
+
+# Symbolication related
+/admin-web/app.*.symbols
+
+# Obfuscation related
+/admin-web/app.*.map.json
+
+# Android Studio will place build artifacts here
+/admin-web/android/app/debug
+/admin-web/android/app/profile
+/admin-web/android/app/release
+
+#firebase-related
+/admin-web/.firebaserc
+/admin-web/.firebaserc
+/admin-web/lib/firebase_options.dart
+
+#backends
+
+/backends/node_modules
+/backends/app.yaml
+/backends/.gcloudignore
+/backends/.gitignore
+/backends/creds.json
+/backends/exclude.js
+/backends/db_cloud.js
+/backends/sql-index.js
+/backends/.env
+/backends/index-auth.js
+/backends/schema_web
