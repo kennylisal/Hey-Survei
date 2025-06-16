@@ -49,10 +49,9 @@ Pastikan Anda telah menginstal perangkat lunak berikut:
 ### Menjalankan Proyek
 - Pastikan backend berjalan sebelum memulai frontend.
 - Akses frontend:
-  - `frontend1`: Biasanya di `http://localhost:port` (port tergantung pada server web Flutter).
-  - `frontend2`: Sama seperti di atas, di terminal berbeda.
-  - `frontend3`: Sama seperti di atas.
-- Uji API GraphQL menggunakan alat seperti Postman atau Apollo GraphQL Playground di `http://localhost:3000/graphql`.
+  - (cd/folder-frontend) lalu (flutter run) atau
+  - lakukan (flutter build --platform) jika target platform belum tersedia
+- Uji API GraphQL menggunakan alat seperti Postman atau Apollo GraphQL Playground di `http://localhost:{Port}/graphql`.
 
 ## Arsitektur Sistem
 ![arsitektur sitem](https://github.com/kennylisal/Hey-Survei/blob/master/images/arsitektur.png)
